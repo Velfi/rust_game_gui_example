@@ -1,0 +1,10 @@
+[package]
+name = "ggez_ui"
+version = "0.1.0"
+authors = ["Zelda Hessler <zhessler@nerdery.com>"]
+edition = "2018"
+
+[dependencies]
+ggez = "^0.4"
+mint = "^0.5"
+frappe = "^0.4"
